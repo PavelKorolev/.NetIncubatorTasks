@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.AssemblyInfo.cs
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.exe
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.deps.json
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.runtimeconfig.json
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.dll
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\bin\Debug\netcoreapp3.1\Solution1.pdb
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.dll
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.pdb
+C:\Users\Xiaomi\source\Repos\C#\Modul6\Task18\Solution1\Solution1\obj\Debug\netcoreapp3.1\Solution1.genruntimeconfig.cache
